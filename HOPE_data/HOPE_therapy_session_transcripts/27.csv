@@ -1,0 +1,63 @@
+ID,Type,Utterance,Dialog_Act
+27_0,T,"Okay, I want to thank you for your participation so far in this intake. But I want to move to another section of intake, specifically your family history if that's okay with you. So I'm going to be asking you various questions about your relatives. Okay, ",gc
+27_1,P,yeah.,gc
+27_2,T,Are you adopted?,ynq
+27_3,P,No.,yna
+27_4,T,All right. Are your parents married?,ynq
+27_5,P,They're not married.,yna
+27_6,T,She's married four times.,ynq
+27_7,P,Yeah.,ack
+27_8,T,What age were you when your parents divorced?,irq
+27_9,P,I was about 16.,id
+27_10,T,"And then your father you said, remarried. He did. And how long after the divorce? ",irq
+27_11,P,I think it was about 18.,id
+27_12,T,You're about 18. And then your mother remarried and was divorced a few times your sign?,irq
+27_13,P,"Well, yeah, I mean, it was pretty much right after they got divorced. She married some guy. I don't even know he was nice guy, but it was like six months after pretty much like real fast. Um, and then that didn't last very long. Forgive me, I have to remember like how long they were together because there's so many. But I believe that they were only together for not even a year. And then she kind of had some time where she just was dating But it was numerous people. And then she met somebody in her a meeting. And they married. That lasted, that they probably got married.",id
+27_14,T,"So well, she was married to your father.",ynq
+27_15,P,Yeah.,ack
+27_16,T,"And then, very quickly after that, you said and then she met some a Meeting.",irq
+27_17,P,"Yes, that's a third and then this one would be Oh, yeah, the fourth the fourth. Okay.",id
+27_18,T,Yeah. She married now.,ynq
+27_19,P,"No, no. Now she's, I don't know, just dating or whatever she was",yna
+27_20,T,how long did the last marriage so that,irq
+27_21,P,was three years that was the longest.,id
+27_22,T,So how's your relationship with your father?,irq
+27_23,P,"Um, it's good, I guess. I mean,",id
+27_24,T,"All right, how about your relationship with your mother?",irq
+27_25,P,"Um, it's just it's honestly there's no other way to describe it. It's just chaotic. I mean, she's chaotic. So she's all over the place and it's just Hard to capture on a good day. And when you do, it's just you know, it's kind of surface our relationship.",id
+27_26,T,"Alright, so who? Who raised you?",irq
+27_27,P,"My parents raised me? Yeah, yeah. I mean, they were good parents, I guess, according to my standards, because my mom was just always a mess. So I guess they both did the best that they could, given some circumstances. So",id
+27_28,T,"do you think the way they're raised has an impact on who you are now in terms of,",irq
+27_29,P,"um, I think so. Yeah, definitely.",id
+27_30,T,"tough memories in Yeah,",ynq
+27_31,P,"yeah, absolutely. ",ack
+27_32,T,Can you tell me about your siblings?,irq
+27_33,P,I do. I do. I have two siblings. Okay.,id
+27_34,T,So what's your relationship with with them now? What's it like now?,irq
+27_35,P,"Um, it's okay. You know, I guess. I mean,",id
+27_36,T,I didn't mention that. Everybody went their separate way.,irq
+27_37,P,"Yeah. I don't really see them quite honestly. So If I do see them and maybe it's like if I show up at a at a family party once every five years, but so I think to me, that's okay. That's right. Yeah.",id
+27_38,T,You're satisfied with your relationship with them?,irq
+27_39,P,"I think so. I mean, you know, it's not my fault that they won't accept who I am.",id
+27_40,T,"Are you aware of any medical conditions that like your mother and father might have or your grandparents,",irq
+27_41,P,"like heart disease or anything like back in the medical? My grandpa had like heart disease. My grandfather had cancer but he beat colon cancer was in like the first stage but he was fine after. But as far as my parents, they don't have any medical issues that I know of.",id
+27_42,T,"All right, how about kind of same question except for mental health conditions.",irq
+27_43,P,I'm just crazy. Like my mom was crazy and she was just completely,id
+27_44,T,You have any formal diagnosis she had her um,irq
+27_45,P,"she uses magnetic like I guess like bipolar, but we she never really got like a definitive label as dipole bipolar and like therapy or anything like that. But",id
+27_46,T,"you know, symptoms of bipolar and anxiety. Yeah.",irq
+27_47,P,"No, that's just my mom with her. You know obsessiveness and she'd get depressed after But as far as any other siblings No, no.",id
+27_48,T,Do you have any special family traditions?,irq
+27_49,P,"I mean, we would go on family vacations. When I was a kid. We were constantly staying at the best hotels and stuff like that. Because a mom, you know, would shop around, she actually would Book Three hotels, and just decide which one she liked better when we got there. I don't, I don't know. But anyway, we would do that we would go on vacations together, we would always go down to the beach. So that was really our family tradition as far as in like holidays. We did when we were younger. We would have like our family over for Christmas and stuff like that. But",id
+27_50,T,"can you tell me about holidays, like were the most important holidays to your family.",irq
+27_51,P,"I Christmas was yester During the most important Thanksgiving, ",id
+27_52,T,how did you celebrate those holidays?,irq
+27_53,P,"Sometimes we would go to my cousin's house on my dad's side, and Christmas would be at my parents house and then Easter woods. It was just very back back and forth between my cousins or my parents, whoever wanted to happen.",id
+27_54,T,Can you tell me about your extended family?,irq
+27_55,P,"my extended family? Well, on my dad's side, my uncle, he's super successful. And he's a cool guy, you know, I don't really see him now. But when I was a kid, I did. But now I don't see him at all. Honestly, I don't really see anybody at all. But um, yeah, and on my mom's side, she has a sister. And she's like crazy, but she's not as crazy as my mom. But she has she has two kids. And she's actually still married to her to her husband. They were actually highschool sweethearts, so I don't have where my mom came from but and I hadn't seen her probably since I graduated high school. And, you know, she associates my mom and they talk amongst themselves so I don't really have a relationship with her either. So",id
+27_56,T,"Alright, so not not many active relationships there. Your family history. It sounds like so.",irq
+27_57,P,"Well, yeah, there's not many now.",id
+27_58,T,Is there anything else you want to tell me about your family history?,irq
+27_59,P,"Um, my mom would drink sometimes when I was growing up, but that's what my mom is really friendly to me when she would drink And yeah, she would drink. I don't know if that's, you know, she was considered an alcoholic but she would drink often. And I think just to come off of her shopping a lot she would drink or vice versa. Sometimes she would drink or shopping or just to calm down, she would drink and sometimes in our drinking habits, she would actually be nice to me.",id
+27_60,T,And they also have something.,ynq
+27_61,P,Definitely.,ack

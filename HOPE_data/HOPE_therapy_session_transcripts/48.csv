@@ -1,0 +1,49 @@
+ID,Type,Utterance,Dialog_Act
+48_0,T,"Hi, Miss Watson, see you again. See, I'm glad you came back in. I've got the results now of the blood work that we did after your checkup. ",gt
+48_1,P,Okay.,ack
+48_2,T,And before we go over any of that I really wanted to find out from you how things are going and what you're concerned about.,irq
+48_3,P,"Well, I mean, I'm, I'm curious about them because I haven't been very well, right. I haven't been very, very well. I've been last week I threw up some blood. ",id
+48_4,T,Is that the first time that's happened?,irq
+48_5,P,"Yeah, the first time. I mean, I threw up blood last weekend then. Again, yesterday. So there's something bad going on. I know there's something bad going ",id
+48_6,T,What do you think is going,irq
+48_7,P,what cancer right I think I probably have cancer i'm not i'm not doing very well I just look headaches and I was just,id
+48_8,T,"let's try to figure some of this out. Okay. When you said you were throwing up blubbery, throwing up bright red blood and was it like little spots, big spots?",irq
+48_9,P,"It was a it was almost filling a toilet wasn't that much. I wasn't like that it was enough that I could see it in the toilet, and I was throwing up.",id
+48_10,T,And did did you have any other symptoms?,irq
+48_11,P,"Well, I was feeling sick. So and I had headaches and I, you know, I've got,",id
+48_12,T,what time of day was this? ,irq
+48_13,P,I have headaches a lot,id
+48_14,T,"throughout the day, throwing up the blood",irq
+48_15,P,"that was in the morning and then again,",id
+48_16,P,"the other time it was sort of later in the day, but I",id
+48_17,P,"you know, I also wake up in the middle of the night and I'm just covered in sweat. I know that's another cancer thing.",id
+48_18,T,"Look, I can understand why you're worried. All right, because throwing up Blood is scary, and waking up soaked in sweat in the middle of the night. That doesn't feel right either. Let me ask you a couple of questions that might help explain things. When did you have your last drink?",gc
+48_19,P,"Actually, just before I came here,",id
+48_20,T,"okay, so that was earlier this morning. All right, what did you have?",irq
+48_21,P,"I had orange juice and I had some vodka in it. It's the only thing actually that like steadies me enough to get out the door. I don't ever go out that often. But right now,",id
+48_22,T,so tell me how it helps you.,irq
+48_23,P,"It's just studies me studies me like I'm, you know, I'm shaking all the time. I'm just like,",id
+48_24,T,"So over the course of the day, in order to study yourself in order to feel calmer. How many drinks do you end up having?",irq
+48_25,P,"Five? Hmm, maybe",id
+48_26,T,singles or doubles?,irq
+48_27,P,I don't measure,id
+48_28,T,right. So is it mainly vodka,gc
+48_29,P,"Sometimes if I'm feeling really like my stomach is really upset, I'll drink cider. So that's its cider or vodka because",gc
+48_30,T,"and you ever get that feeling in the morning that some people describe that they wake up feeling so edgy. They need a drink to calm down. Yeah. It's like the only thing that works for me. Anything that works, too. So in the past week, do you think you've been drinking more?",irq
+48_31,P,In the last week? Not so much in the last couple of weeks maybe?,irq
+48_32,T,"Hasn't been daily. Oh, yeah. Right. So the longest you've gone without a drink in the last month would be how long?",id
+48_33,P,"I don't know. Actually. I mean, I don't know. I've got you know, I've got a lot going on. Right. Yeah. So my, my sister is in Boston, she's got cancer and I know like I should be calling her and I can't do that. My mom is really sick and she's horrible, and I'm the only one that Who can go see her? And I go see my mother and she just yells and screams at me and she's got this email and it's just",id
+48_34,T,"so for all of those things, the alcohol helps.",ynq
+48_35,P,"Yeah, yeah.",ack
+48_36,T,"Yeah. And does it ever happen sort of by the end of the day, that you have trouble the next day remembering what happened?",irq
+48_37,P,"I guess. I mean, I, you know, my days don't differ that much. But I, you know, I'll fall asleep in front of television and then I'm not seeing lots of people so I you know, there's not big events in my life that I would be remembering. I just, you know, especially now that I'm feeling so not well, that I",id
+48_38,P,"yeah, there's not much that I would have to remember",id
+48_39,T,having that. Have you tried it all to cut down on your drinking?,ynq
+48_40,P,I did. I did.,ack
+48_41,P,"You know, I had a boyfriend who",id
+48_42,P,"you know, was Sort of casual coming over and, and he, he basically said he couldn't be with me anymore because I drink too much. And so I tried. I tried. I was like, Well, yeah, and then he left. So who cares, right? I mean, right?",id
+48_43,T,You find yourself feeling feeling guilty about the alcohol.,ynq
+48_44,P,"I feel guilty about my sister, right? I feel guilty that I can't like I just can't. I can't even call her like I can't.",id
+48_45,P,Right. So,id
+48_46,P,"if I, if I could pull it together than I could,",id
+48_47,T,"because what I understand from what you're telling me is that the drinking helps meet a certain need for you, in terms of trying to hold things together with all this stuff going on, and meets a need in terms of trying to keep you calmer. But at the same time, it's getting you into trouble. It's getting into trouble in terms of relationships, but it's also the most likely act explanation for why you've been throwing up blood isn't why the lab results that I've got are consistent with an amount of alcohol that's too much for your body to handle. Really, really, and that means, ideally, that we're going to work together to find a way to do something about it.",gc

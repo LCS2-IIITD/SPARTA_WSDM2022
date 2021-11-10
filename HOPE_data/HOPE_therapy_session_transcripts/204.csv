@@ -1,0 +1,49 @@
+ID,Type,Utterance,Dialog_Act
+204_0,T,"Hi Miss Clark, My name is Alan Lime. I'm a social worker at the Family Health Center. Dr. Steele asked me if I would spend some time with you today. I'm really glad that you're here. I'm just curious as to why he would send you to me.",gt
+204_1,P,"Well, I came to see Dr. Seal last week because of increasing stress and anxiety, that's kind of getting the best of me. And in the course of my appointment with him, he was asking how I was dealing with that stress. And I mentioned that my one or two glasses of wine a few nights a week is turning into more frequent and maybe three or four on some nights and he had some concerns about that and, and felt like maybe you could help me with stress or something.",gt
+204_2,T,"Yeah. So he, he actually see me because you went to him for increased stress. And he's concerned that your alcohol consumption may be a part of that increase And prior to prescribing anything, you want to make sure that you at least had someone to talk to that",gc
+204_3,P,I suppose.,gc
+204_4,T,Okay. So you filled in one of the Pink Sheets and I take a look at that.,irq
+204_5,P,He told me to fill that out and bring it with me.,id
+204_6,T,"Okay, thank you. So, you say here that you have four or more drinks in one week, you mentioned that you may be increasing that a little bit as well. And that you have one or two drinks in one setting ",irq
+204_7,P,"typically, yeah. ",id
+204_8,T,And maybe monthly you have more than that. What what's what kind of drinks do you have? What do you do when you typically drink,irq
+204_9,P,"wine with my meals? You know, again, one or two, typically and more frequently, three or four. My stress is increased.",id
+204_10,T,"So it's time to increase your strength a little more. Well, based on what you put here, you get it gives you six points on this scale scale ranging from zero to 46 points will put you in what we would consider an at risk zone. So if it's okay with you to talk a little bit about that,",id
+204_11,P,okay,ack
+204_12,T,"okay. So that was sunset run zero to 40. It's not a sort of super high risk, but it certainly could be a risk for maybe increasing stress might be some physical ailments related to alcohol as well could could start to show up if you were to increase your drinking from there, or even stay there. This is a typical standard drink size over here, I'm not sure whether that fits your description of a glass of wine or not,",irq
+204_13,P,I feel the glass up so maybe a little more than that,id
+204_14,T,"maybe the little space it's upset, perhaps a drink drink and a half each one. So that also increased a little bit more. So perhaps maybe drinking more than you indicated on here. And for women, healthy woman your age, no more than three drinks in one setting is considered to be low or no risk and one seven in one week, seven total in total a week and what you say here is that even on this sheet, you're perhaps already drinking more than that. So what do you make of all that?",irq
+204_15,P,"That news to me, you know, I thought red wine with your meals is supposed to be healthy. You know, no more than seven in a week? That seems kind of prohibitive?",id
+204_16,T,"Yeah, it seems seems a little less than perhaps you've been drinking or what you consider to be healthy drinking. And certainly there's there's conflicting information out there about what's healthy and what's not healthy. Imagine the increased stress work because we're concerned doctor seal as your stress increases, and if you were to describe you anything, maybe some interaction between the two, that would also be a concern for him. I would, I would think, so if you would, what is it that you like about alcohol?",irq
+204_17,P,"Well, you know, it does, at least in the moment, temporarily reduce my stress. And I you know, like a good glass of wine. I don't don't drink the cheap stuff. I like the expensive.",id
+204_18,T,"See, like the taste of it. And it does help to lower the stress, even if it's just for the fun of me drinking. What's not so good things about alcohol for you.",irq
+204_19,P,"Um, well, you know, the nights that maybe I have a couple more glasses than I should I wake up feeling kinda yaak and, of course, part of my stress is finances. And I mentioned I like the good stuff. And so if I'm drinking more than I'm increasing my financial burden,",yna
+204_20,T,your financial stress may be increased by the fact that you're drinking.,id
+204_21,P,"Yeah, kind of defeating the purpose they're",gc
+204_22,T," the drink introduce stress and increasing stress at the same time. So on the one hand, it low is it on the other hand, it's increasing kind of the seesaw teeter totter effect. What do you make of that, given that on one hand, it lowers on the other hand, it increases and and now it's increasing even more?",irq
+204_23,P,And maybe I need to find some other way to deal with my stress. Yeah.,id
+204_24,T,Imagine investment thoughts so that what have you thought of trying?,irq
+204_25,P,"Well, I've exercised in the past and that helps. Right now. My schedule is kind of out of whack and I just really don't know what to do. That's why I came to see Dr. seal. I thought maybe he can prescribe me something that would help. You know, when I'm feeling overwhelmed,",id
+204_26,T,"And he may be able to I'm not saying that he cannot just imagine that he's concerned that if you continue to drink, the level that you are drinking, that whatever he prescribes you, there may be an interaction with it to mention that he's concerned. I'm not completely sure. So you've had some success in the past of changing behaviors. And if you were to decide to make any changes here that sounds like you could draw upon that to make those changes. How important would it be for you on a scale of zero to 10? I have a low visual hero that if zero is not important, ten is very important to do something about your drinking wine.",irq
+204_27,P,"Well, I mean, if if it means that it's increasing my stress and or he's not going to prescribe me anything because of my drinking, then it's fairly important, maybe about seven. ",id
+204_28,T,It's it's pretty up there. What do you choose a seven out of five or four?,irq
+204_29,P,"Well, again, I got to get things under control. You know, My kids are dependent on me and I've got to go to work to help ease this financial stress. And so, you know, all those responsibilities",id
+204_30,T,there's a lot riding on your decision on what to do with this. What if anything would bring up to an eight or nine on that scale?,irq
+204_31,P,"Well, the you know, the risk that you mentioned about the drug interaction, I certainly can't afford to, you know, have any more stress.  So, yeah, ",id
+204_32,T,so so you you choose to lower your stress rather than increase it. And if lowering your drinking would have that effect that something be willing to do.,ynq
+204_33,P,hmmm,ack
+204_34,T,How confident are you that you could do something about your drinking?,irq
+204_35,P,"I'm pretty confident and you know, probably about a seven or an eight ",id
+204_36,T,"Okay, so it's pretty high up there again, and what if, what if anything, would you choose to do would it be to cut down would it be to quit? I'm just curious about that",irq
+204_37,P,"I you know, I like a lot A glass of wine, I don't want to quit altogether, I'd be willing to try cutting that. But now if it's going to, if Dr. Seal would agree to prescribe me something for the anxiety, and it meant that I had to not drink at all, I'd be willing to do that at least for a period of time.",id
+204_38,T,"So you'd be willing to stop altogether. That's what was indicated by the physician. Okay. So based on that, how ready are you to do anything right now, whether it's to cut back whether it's to quit?",irq
+204_39,P,"Well, again, you know, if if I can get something to help me manage if maybe I can find some other way to deal with the stress, then then you know, I be pretty ready. Again, maybe about an on that scale, maybe an eight.",id
+204_40,T,"Okay, so that's, that's pretty hot there as well. It sounds as though you're pretty motivated to do something about this right now, given any responsibilities given your children learning at this point. And just on lowering anxiety, in general, it sounds and that's one of your goals as well. Well, I'm pretty confident Once you decide to do whatever it is you decide to do, you'll be able to follow through with it. Based on your experience in the past of making behavior changes. I mentioned some things that you can draw upon. What's one thing that you could do? Imagine you thought of some things might help to lower your stress.",irq
+204_41,P,"Oh, I you know that the exercise but again, that's that's kind of difficult to fit in right now. I'm hoping that Dr. Seal will prescribe something for me to take when I'm feeling particularly overwhelmed and maybe just having somebody to talk to to bounce some things off of ",id
+204_42,T,"one of the things we can offer here is for you to come in and talk to one of our behavioral health specialists may be able to help you talk talk through this this area of your life, this area of increased stress and sound like responsibility there and we can make an appointment for you for like before you leave today to talk to somebody",id
+204_43,P,That would be nice,ack
+204_44,T,"that also has some information here if you're interested, some pamphlet on alcohol and and how what helps limits on how it may be affected by medications that you take as well. And I wish you lots of luck. It sounds as though you're really committed to making this shift in this change. And I imagine doctors still want to follow up with you and see how you do with your with your change within a few weeks.",id
+204_45,P,Okay,ack
+204_46,T,"Again, I look forward to speaking to you in the future.",gt
+204_47,P,"All right, thank you very much.",gt

@@ -1,0 +1,27 @@
+ID,Type,Utterance,Dialog_Act
+97_0,T,"Jackie, I joined today. Okay, how about you?",gt
+97_1,P,"I do well, thanks for asking. ",gt
+97_2,T,I understand you've been having some difficulties recently that have brought you into the agency.,id
+97_3,P,"Yeah, I'm, I'm recently married. And so my husband and I moved in together. And up until then I I've lived by myself. My whole adult life. So apparently the craziest things have been happening. While I've been sleeping. several, several nights I've woken him up screaming. I'm screaming. Apparently a very vulgar, profane, profane the words and So that's a little alarming to him. And I've even, you know, we've been hitting him in the middle of the night. You know, he's waking up with these huge bruises on his arms. And so yeah, apparently, a behavior in the middle of the night is out of hand.",id
+97_4,T,So I can understand why that would be distressing. Have you seen a physician about this?,ynq
+97_5,P,"Yes. Um, I participated in a sleep study and what they say they rolled out some some other things and thought that maybe it was a behavior, Sleep Disorder. So they have referred me to you, I'm still working with them. Now. They're still running some tests and everything but they thought maybe there are some other stressors or underlying things, so",id
+97_6,T,that might be going on. So what would you like from counseling?,irq
+97_7,P,"Colby? Um, well, I'm just little worried that it's going to affect my marriage and that my husband will not be able to deal with that. So I would just really like to figure out how to keep my relationship with Him successful with it. So overcome these issues.",id
+97_8,T,"So, after you were yelling things, or you hit him, like you're asleep during this time, when you wake up, what's going through your mind then?",irq
+97_9,P,"Usually I wake up and he's like, what are you doing? I was having the worst dream. So those dreams are kind of what he's telling me are aligning. What my behavior is, my dreams are aligning with those. So you know, I don't feel anything. It doesn't feel like I've been anything. I have. I've met a couple times and woken up, but no people do that. So I didn't really think anything of it. But now I'm starting to wonder. Yeah, it's it's a little strange. So Oh, concerning.",id
+97_10,T,Sorry. I wonder if you have this disorder before?,irq
+97_11,P,"Yeah, I mean, I would, I wouldn't have known. I've lived by myself. But you know, I, before I had fallen out of bed a couple times, and, you know, my sheets and pillows are always everywhere when I wake up, but I didn't really think anything of it. So kind of making the connections now.",id
+97_12,T,"So he's been paying attention to what's going on with your sleep. Does the episode of yelling or moving around, does it happen a certain time limit? Like what happened right after you go to sleep or a while",irq
+97_13,P,"after you go to sleep? I'm in the middle of the night he has. He said at first he thought I was joking around But, yeah, no, no, I am waking him up, you know. So",id
+97_14,T,does that ever happen when you take like a nap for a short nap?,ynq
+97_15,P,No.,yna
+97_16,T,Not that I know,gc
+97_17,P,"that he's, he's usually around electronic cash snapping he says it hasn't happened and so. Alright.",gc
+97_18,T,"So only at night when you're sleeping overnight and in the middle of that sleep. All right, would you be okay with sign a release so I can communicate with your question. ",irq
+97_19,P,Yeah.,yna
+97_20,T,And do you want your husband to be part of the counseling?,ynq
+97_21,P,"Yeah, that would probably be helpful for him to kind of get this side of things too.",id
+97_22,T,And you'd be okay saying release for him?,ynq
+97_23,P,"Yes, yes.",yna
+97_24,T,So I'll get you scheduled into see a counselor. I appreciate you tell me what's going on. ,gt
+97_25,P,It's been it's been helpful. Thank you. Prepare health,gt

@@ -1,0 +1,55 @@
+ID,Type,Utterance,Dialog_Act
+67_0,T,"sure you understand you've been having some symptoms which have been bothering you, but can you tell me what you think's going on?",irq
+67_1,P,"Yeah, I've been feeling really low and I think I might be depressed. ",id
+67_2,T,You think you might be depressed?,irq
+67_3,T,Have you ever felt this way in the past?,irq
+67_4,P,I mean,id
+67_5,P,"years ago I you know, felt had some of these similar things. But I didn't really think about it much and I mean, it's gone on for like, I've been feeling this way for like a month. And, you know, I I think something's wrong.",id
+67_6,T,"having any feelings of sad sadness, hopelessness?",ynq
+67_7,P,"Yeah,",ack
+67_8,T,yeah?,irq
+67_9,P,Yeah. I haven't been able to sleep.,id
+67_10,T,trouble sleeping?,irq
+67_11,P,This has been going on for a month.,id
+67_12,P,Yeah,gc
+67_13,T,Have you noticed a change in your ability to experience fun or pleasure?,irq
+67_14,P,"I haven't really thought about it. But I mean, I still have fun sometimes.",id
+67_15,P,I just noticed that most of my,gc
+67_16,T,"most time you're sad, but you still have fun. Have you lost an interest in pursuing things that are fun?",irq
+67_17,P,"No, I mean, I still try, you know, you know, to distract myself. Like if I noticed that I'm like, just feeling really low and or like, even if I can't sleep At night, like I'll do go do something that I like doing. You know how to pass the time?",yna
+67_18,T,Any change in your appetite or weight in the last couple weeks?,irq
+67_19,P,"Yeah, I mean, I haven't really been eating that much. And I've actually lost a few pounds. Yes, three pounds. Yeah.",ack
+67_20,T,And you mentioned the sleep disturbance not been sleeping as much as you'd like to?,irq
+67_21,P,"Correct. It's really hard for me to fall asleep. And sometimes I'll just lie there for hours at night and it's, you know, awful focused, and I'm tired all day, because I didn't sleep at night. And when I get home and it's time for bed again, I still can't fall asleep.",id
+67_22,T,So that's been affecting your energy level?,ynq
+67_23,P,Yeah.,ack
+67_24,T,Do you feel restless or the opposite kind of slowed down and having either one of those feelings.,irq
+67_25,P,"No, not really like that",yna
+67_26,T,have been having any feelings of worthlessness?,ynq
+67_27,P,No.,yna
+67_28,T,like that?,irq
+67_29,P,"no, I mean, like not really no, like, I don't feel worthless. I just you know, I just I'm still sad. I don't know why I'm sad. ",id
+67_30,T,How about your concentration level any changes there?,irq
+67_31,P,"Yeah, it's it's hard to concentrate at work and, and in general even at home because I just am so tired. not sleeping and tonight I just get distracted by like, you know, like, I'll be over, come with emotion and I out of nowhere, like it's hard for me to pay attention to what I'm doing. If I'm getting distracted by those thoughts.",id
+67_32,T,Have you been having any thoughts related to death or dying?,ynq
+67_33,P,Nothing like that. No.,yna
+67_34,T,"So these symptoms you've been describing, have been causing limitations in your functioning in what areas",irq
+67_35,P,what work,irq
+67_36,P,at home to,id
+67_37,P," I want to play with my cat I usually like my cat for like an hour every night, just because I'm at work all day but I haven't I've been having trouble like even doing that. Yeah, so I would say and then even like my relationships to like my social life, it's been affecting it.",id
+67_38,T,Any drug or alcohol use?,ynq
+67_39,P,NO,yna
+67_40,T,How about any medical conditions?,ynq
+67_41,P,Nothing,yna
+67_42,T,see or hear things other people can't see or hear?,ynq
+67_43,P,No.,yna
+67_44,T,Has it ever happened to you?,ynq
+67_45,P,No. Never,yna
+67_46,T,"do you feel now recently wherever you're at a state where you're cheating too happy, like had a lot of energy and ",irq
+67_47,P,"like make mania,",irq
+67_48,T,like mania? Yeah. Nothing like that. Ever.,id
+67_49,T,Has there been any major event in the last month? Or maybe before that did you think might be causing this,irq
+67_50,P,nothing Nothing's in there significance happened to make me feel this way,id
+67_51,T,other than you think would cause depression.,gc
+67_52,T,"Sherry, I'm going to get you in to see a counselor here. Just take a couple days to get you in. Is that okay? I want to thank you for answering these questions. For me. This has been helpful.",gt
+67_53,P,Yeah. All right.,gt

@@ -1,0 +1,55 @@
+ID,Type,Utterance,Dialog_Act
+75_0,T,Does the feeling itself of not being prepared interfere with preparing?,irq
+75_1,P,"Yes, it's really hard. So like when I'm in the middle of being worried, I'm it's really hard for me to focus. So I can't focus on like what I need to do. Because I feel like my mind is on a lot of different things and I can't focus on you know exactly what I should be doing. It's just like, I'm worried about You know, all the different aspects.",id
+75_2,T,"Alright, so your ability to concentrate and do the hard work of preparing is affected",irq
+75_3,P,"Yeah, it's like focus my energy on the right things. I'm just like wasting time worrying.",id
+75_4,T,"Alright, so this excessive worrying and all this interfering of preparing all this goes on right up until you're getting ready to present",irq
+75_5,P,Yeah. And then like while I'm presenting,yna
+75_6,T,so let's talk about that let's go into the actual day a present so we have a successive work coming in it's interfering with your ability but it's distressing for you.,irq
+75_7,P,Yeah.,yna
+75_8,T,Now these presentations are in class? ,irq
+75_9,P,Yeah,id
+75_10,T,So it's you're in you're in the classroom. Do you write the only one to present in that classroom is it rotate through several PV?,irq
+75_11,P,"It depends on the presentation. Sometimes there's like one or two other people that have to present that night, depending on like how long the topic is.",id
+75_12,T,"All right, well, let's choose the last time you presented that classes as a template. What was the order to go in there?",irq
+75_13,P,"Well, the one that I really messed up, I think in that I was first But usually, like, I'm like, second maybe.",id
+75_14,T,"Okay. So for this example, let's say you're through the second. Okay, so you're sitting in the classroom and another student is presenting. What's going through mind that?",irq
+75_15,P,"I feel like I am totally zoned out. Like I'm not even paying attention to what that person saying, because I'm so worried about how I'm gonna mess it up. You know, I'm, I'm starting to like be sweaty, like my hands are clammy, my heart started to race a little bit, and I'm just totally zoned out on what they're doing. Just, you know, worrying about what's gonna happen when I get up there.",id
+75_16,T,"So in that moment as you're seated, you're not really watching their presentation as much because you have these strong or somewhat strong physical symptoms. You have your heart racing a bit is sweaty palms. You're zoned out. Have you ever felt the need desire to, like, run out of the room?",id
+75_17,P,Yes. It's funny you should say that was a little bit hesitant to mention that but I kind of I do I feel like I need to find excuse to like use the bathroom or I just need to get out of there.,yna
+75_18,T,"Yeah, so what do you feel is most pressuring you to leave the room like what? What symptom?",irq
+75_19,P,"Um,",gc
+75_20,T,"And what thoughts are going through your mind right then like, so let's take that kind of severe moment. When you're, you're, let's just say still before the presentation, okay? So you're sitting at the desk and your heart rates elevated. And you're not focusing on what they're doing. You're zoned out your anxieties high. What was going through your mind right, then?",irq
+75_21,P,"I think I'm thinking, like, I'm gonna bomb this anyway. So I might as well just, you know, not go through the stress of having to do it. Like I've already in my head, I know that it's going to end badly.",id
+75_22,T,So you've already failed.,irq
+75_23,P,"right. So there's no sense in getting up there. And maybe if I don't get up there, you know, I guess it couldn't be any worse. So I might as well just leave",id
+75_24,T,Are you embarrassed that the professor or Other students will see that you were really anxious?,ynq
+75_25,P,"Yeah, I don't want I figure if I leave and people won't, will just make me think I was sick or whatever. And it'll be a better situation, if I just left then happened to see me up there, you know, sweating and all these other symptoms that I have when I actually get up there, it would be better just to leave before that starts.",yna
+75_26,T,"Okay. So, so better to be thought ill and had to leave because you're saying. ",irq
+75_27,P,"Yeah, or have them wonder what happened then to just be up in front of everybody, you know,",id
+75_28,T,to have a severe anxiety for that buddy. And then they can very embarrassing. That would be a very undesirable outcome for you.,irq
+75_29,P,Right.,id
+75_30,T,"So as you're debating that thought, because that's coming to your head, and you're thinking I just need to, yeah, gotta get out here. What happens there, so we're maybe What, 15 minutes before we present? So tell me about that. So you have that thought you want to flee,",irq
+75_31,P,"right. And I'm looking at the clock and saying, you know, like, how much more time in this presentation before I have to go like, should I go? Should I not go? What are the consequences of running out? You know, and kind of playing out, which would be worse?",id
+75_32,T,Have you ever had to run out?,ynq
+75_33,P,"Um, once I went to the bathroom to try to, like calm myself down or talk to myself, or you know, like, Cool off my face. Um, but I came back",yna
+75_34,T,"and you presented then you presented Alright, so you you survived. One of the more stressful presentations",irq
+75_35,P,"Yeah, I almost felt like I was gonna be ill. I was so stressed that day.",id
+75_36,T,"That was very, very tough on you. What happened on that particular day?",irq
+75_37,P,"So typically, like, I go to load my presentation, at this point, like, I have my new cards or whatever, in front of me. I am like, shaking at this point. I am so I don't know if it's scared, or worried or maybe a combination of everything. And I'm just like sweating. My heart is racing. Like I almost feel dizzy. I'm just so stressed out about what's going to happen. And then you know, I'm starting to speak. And then the presentations are usually like 20 minutes or so. Okay, so I have to stay up there for the duration and I'm just like, you know, sweating and then I'm wondering like, are people looking at me or people? Can people see it? You know, am I going to forget something?",id
+75_38,T,"So the some of the thoughts are you wonder if they can see how anxious you are you wonder if you're gonna do poorly on the presentation,",irq
+75_39,P,"right. Or they think I've been lazy and I didn't prepare, are they going to think that, you know, I'm dumb or I don't know, you know what I'm doing.",id
+75_40,T,"So they might, they might think less of you as a person.",irq
+75_41,P,Right. Or like be judging me. Okay.,id
+75_42,T,Yeah. So there's a number of concerns that kind of going through your mind in that moment. So when does this start to turn around so you start presenting is 20 minutes you initially get up there and get your presentation up on the The projection monitor. Yeah. When does it start to turn the corner?,id
+75_43,P,"Um, it's depends sometimes I settled down a little bit, but then usually like that, I get some sort of rhythm I think. And then, but then it gets anxiety again until I get my grades. Do you know what I mean? And I'm like, until, because I feel like I'm gonna do poorly. Until that happens when",id
+75_44,T,when you receive the grades.,irq
+75_45,P,"Sometimes, like she usually doesn't give them that day but like often like the next day or the day after",id
+75_46,T,So does that intense anxiety that you're having while you're presenting last all the way?,ynq
+75_47,P,now? It definitely like dissipates once I can like go sit down.,yna
+75_48,T,"Okay, so so the sort of next big drop off for symptoms would be when you're done with  the presentation",irq
+75_49,P,"Yeah, when eyes are maybe no longer on me. They've moved on to somebody else. So I figured like, okay, they forgot about me. I'm safe.",id
+75_50,T,"All right, then. But then there's this other worry of now we have to see what the grades are right?",ynq
+75_51,P,And I convince myself that I did poorly.,id
+75_52,T,So the thought is going through your mind is I'm gonna receive a bad grade.,ynq
+75_53,P,"Yeah, and that everyone saw me, you know, sweating and all these symptoms that I have everyone is judging me",yna
