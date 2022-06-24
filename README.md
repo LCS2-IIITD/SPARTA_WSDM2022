@@ -1,6 +1,6 @@
 # SPARTA
 
-This repository contains the code and dataset for our paper titled *Speaker and Time-aware Joint Contextual Learning for Dialogue-act Classification in Counselling Conversations* accepted at WSDM Conference, 2022.
+This repository contains the code and dataset for our paper titled [Speaker and Time-aware Joint Contextual Learning for Dialogue-act Classification in Counselling Conversations](https://dl.acm.org/doi/10.1145/3488560.3498509) accepted at WSDM Conference, 2022.
 
 ## Code
 
